@@ -70,7 +70,6 @@ The default query is `status:open` which will return open change sets from all p
 
 ## Donate
 
-If you find this extension useful, please feel free to donate <a href="https://paypal.me/Gruntfuggly">here</a>. Thanks!
 
 ### Credits
 
